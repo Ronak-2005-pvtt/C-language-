@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int a=15;
+    float c, b=4;
+    c=a/b;
+    printf("\n%f\n",c);
+    return 0;
+}
